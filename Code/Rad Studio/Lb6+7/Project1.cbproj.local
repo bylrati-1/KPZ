@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.347,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.11.13 08:31:11.146,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.11.13 08:31:11.553,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025.11.13 08:31:36.130,C:\Users\User\Desktop\OIPZ\Code\Rad Studio\Lb6+7\Project1PCH1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.11.13 08:31:36.147,C:\Users\User\Desktop\OIPZ\Code\Rad Studio\Lb6+7\Unit1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2025.11.13 08:31:36.147,C:\Users\User\Desktop\OIPZ\Code\Rad Studio\Lb6+7\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025.11.13 08:31:36.147,C:\Users\User\Desktop\OIPZ\Code\Rad Studio\Lb6+7\Unit1.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025.11.13 08:31:36.166,C:\Users\User\Desktop\OIPZ\Code\Rad Studio\Lb6+7\Project1.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,66 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Object2Click(TObject *Sender)
+{
+	if(OleContainer1->InsertObjectDialog())
+	{
+
+    }
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Destroy1Click(TObject *Sender)
+{
+    OleContainer1->DestroyObject();
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::FromFile1Click(TObject *Sender)
+{
+	if(OpenDialog1->Execute())
+	{
+		OleContainer1->CreateObjectFromFile(OpenDialog1->FileName, false );
+	}
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::File2Click(TObject *Sender)
+{
+	if(SaveDialog1->Execute())
+	{
+		OleContainer1->SaveToFile(SaveDialog1->FileName);
+	}
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Open1Click(TObject *Sender)
+{
+	if(OpenDialog1->Execute())
+	{
+		OleContainer1->LoadFromFile(OpenDialog1->FileName);
+	}
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::SaveAs1Click(TObject *Sender)
+{
+	if(OpenDialog1->Execute())
+	{
+		OleContainer1->SaveAsDocument(OpenDialog1->FileName);
+	}
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::CreateObject1Click(TObject *Sender)
+{
+	OleContainer1->CreateObject("Word.Document",false); //regedit в cmd -> Ctrl + F и поиск необходимого
+}
+//---------------------------------------------------------------------------

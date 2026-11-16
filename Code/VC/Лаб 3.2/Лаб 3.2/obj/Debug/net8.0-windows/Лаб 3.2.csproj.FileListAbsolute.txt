@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\bin\Debug\net8.0-windows\Лаб 3.2.exe
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\bin\Debug\net8.0-windows\Лаб 3.2.deps.json
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\bin\Debug\net8.0-windows\Лаб 3.2.runtimeconfig.json
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\bin\Debug\net8.0-windows\Лаб 3.2.dll
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\bin\Debug\net8.0-windows\Лаб 3.2.pdb
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб_3._2.Form1.resources
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.AssemblyInfo.cs
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.dll
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\refint\Лаб 3.2.dll
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.pdb
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\Лаб 3.2.genruntimeconfig.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.2\Лаб 3.2\obj\Debug\net8.0-windows\ref\Лаб 3.2.dll

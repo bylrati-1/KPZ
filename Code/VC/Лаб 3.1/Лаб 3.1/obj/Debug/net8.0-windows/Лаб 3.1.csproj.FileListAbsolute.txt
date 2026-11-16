@@ -1,0 +1,34 @@
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.exe
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.deps.json
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.runtimeconfig.json
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.dll
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.pdb
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб_3._1.Form1.resources
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.csproj.GenerateResource.cache
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.AssemblyInfoInputs.cache
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.AssemblyInfo.cs
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.csproj.CoreCompileInputs.cache
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.dll
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\refint\Лаб 3.1.dll
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.pdb
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.genruntimeconfig.cache
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\ref\Лаб 3.1.dll
+C:\Users\korob\source\repos\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб_3._1.fLogin.resources
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.exe
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.deps.json
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.runtimeconfig.json
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.dll
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\bin\Debug\net8.0-windows\Лаб 3.1.pdb
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб_3._1.fLogin.resources
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб_3._1.Form1.resources
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.AssemblyInfo.cs
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.dll
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\refint\Лаб 3.1.dll
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.pdb
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\Лаб 3.1.genruntimeconfig.cache
+C:\Users\User\Desktop\OIPZ\Code\VC\Лаб 3.1\Лаб 3.1\obj\Debug\net8.0-windows\ref\Лаб 3.1.dll

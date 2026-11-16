@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.582,=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.680,=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\korob\OneDrive\Рабочий стол\OIPZ\Code\Rad Studio\Lb1.1\Unit1.cpp=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\korob\OneDrive\Рабочий стол\OIPZ\Code\Rad Studio\Lb1.1\Project1PCH1.h=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\korob\OneDrive\Рабочий стол\OIPZ\Code\Rad Studio\Lb1.1\Unit1.dfm=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\korob\OneDrive\Рабочий стол\OIPZ\Code\Rad Studio\Lb1.1\Unit1.h=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,C:\Users\korob\OneDrive\Рабочий стол\OIPZ\Code\Rad Studio\Lb1.1\Project1.cbproj=C:\Users\korob\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

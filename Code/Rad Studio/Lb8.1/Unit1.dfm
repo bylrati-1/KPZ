@@ -1,0 +1,303 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 681
+  ClientWidth = 963
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Shape1: TShape
+    Tag = 2
+    Left = 56
+    Top = 96
+    Width = 81
+    Height = 81
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape2: TShape
+    Left = 184
+    Top = 96
+    Width = 81
+    Height = 81
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape3: TShape
+    Left = 313
+    Top = 96
+    Width = 81
+    Height = 81
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape4: TShape
+    Left = 440
+    Top = 96
+    Width = 81
+    Height = 81
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape5: TShape
+    Left = 573
+    Top = 96
+    Width = 81
+    Height = 81
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape6: TShape
+    Left = 703
+    Top = 96
+    Width = 81
+    Height = 81
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape7: TShape
+    Left = 836
+    Top = 96
+    Width = 81
+    Height = 81
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Label1: TLabel
+    Left = 143
+    Top = 96
+    Width = 40
+    Height = 71
+    Caption = #11157
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -53
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label14: TLabel
+    Left = 339
+    Top = 23
+    Width = 228
+    Height = 54
+    Caption = #1050#1080#1111#1074' '#11157' '#1051#1100#1074#1110#1074
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -40
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 271
+    Top = 96
+    Width = 40
+    Height = 71
+    Caption = #11157
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -53
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 400
+    Top = 96
+    Width = 40
+    Height = 71
+    Caption = #11157
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -53
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 527
+    Top = 96
+    Width = 40
+    Height = 71
+    Caption = #11157
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -53
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 657
+    Top = 96
+    Width = 40
+    Height = 71
+    Caption = #11157
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -53
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label6: TLabel
+    Left = 790
+    Top = 96
+    Width = 40
+    Height = 71
+    Caption = #11157
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -53
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label7: TLabel
+    Left = 56
+    Top = 264
+    Width = 277
+    Height = 15
+    Alignment = taCenter
+    Caption = #1042#1074#1077#1076#1110#1090#1100' '#1087#1086#1095#1072#1090#1082#1086#1074#1080#1081' '#1087#1091#1085#1082#1090' '#1090#1072' '#1095#1072#1089' '#1074#1110#1076#1087#1088#1072#1074#1082#1080
+    WordWrap = True
+  end
+  object Label8: TLabel
+    Left = 352
+    Top = 266
+    Width = 148
+    Height = 15
+    Alignment = taCenter
+    Caption = #1042#1074#1077#1076#1110#1090#1100' '#1087#1091#1085#1082#1090' '#1087#1088#1080#1079#1085#1072#1095#1077#1085#1085#1103
+    WordWrap = True
+  end
+  object Label9: TLabel
+    Left = 56
+    Top = 319
+    Width = 449
+    Height = 15
+    Alignment = taCenter
+    Caption = #1042#1074#1077#1076#1110#1090#1100' '#1087#1088#1086#1084#1110#1078#1085#1080#1081' '#1087#1091#1085#1082#1090' '#1095#1072#1089' '#1076#1086' '#1085#1100#1086#1075#1086' '#1090#1072' '#1095#1072#1089' '#1089#1090#1086#1103#1085#1082#1080
+    WordWrap = True
+  end
+  object Edit1: TEdit
+    Left = 56
+    Top = 285
+    Width = 140
+    Height = 23
+    TabOrder = 0
+    TextHint = #1046#1080#1090#1086#1084#1080#1088
+  end
+  object Edit2: TEdit
+    Left = 56
+    Top = 340
+    Width = 140
+    Height = 23
+    TabOrder = 1
+    TextHint = #1046#1080#1090#1086#1084#1080#1088
+  end
+  object StaticText1: TStaticText
+    Left = 56
+    Top = 183
+    Width = 98
+    Height = 19
+    Caption = #1044#1072#1088#1085#1080#1094#1103' ('#1084'.'#1050#1080#1111#1074')'
+    TabOrder = 2
+  end
+  object StaticText2: TStaticText
+    Left = 168
+    Top = 183
+    Width = 114
+    Height = 19
+    Caption = #1050#1080#1111#1074'-'#1055#1072#1089#1072#1078#1080#1088#1089#1100#1082#1080#1081
+    TabOrder = 3
+  end
+  object StaticText3: TStaticText
+    Left = 304
+    Top = 183
+    Width = 110
+    Height = 19
+    Caption = #1057#1074#1103#1090#1086#1096#1080#1085'  ('#1084'.'#1050#1080#1111#1074')'
+    TabOrder = 4
+  end
+  object StaticText4: TStaticText
+    Left = 448
+    Top = 183
+    Width = 62
+    Height = 19
+    Caption = #1050#1086#1088#1086#1089#1090#1077#1085#1100
+    TabOrder = 5
+  end
+  object StaticText5: TStaticText
+    Left = 592
+    Top = 183
+    Width = 39
+    Height = 19
+    Caption = #1044#1091#1073#1085#1086
+    TabOrder = 6
+  end
+  object StaticText6: TStaticText
+    Left = 712
+    Top = 183
+    Width = 55
+    Height = 19
+    Caption = #1055#1110#1076#1079#1072#1084#1095#1077
+    TabOrder = 7
+  end
+  object StaticText7: TStaticText
+    Left = 864
+    Top = 183
+    Width = 33
+    Height = 19
+    Caption = #1051#1100#1074#1110#1074
+    TabOrder = 8
+  end
+  object MaskEdit1: TMaskEdit
+    Left = 213
+    Top = 287
+    Width = 120
+    Height = 23
+    Alignment = taCenter
+    EditMask = '!90:00;1;_'
+    MaxLength = 5
+    TabOrder = 9
+    Text = '  :  '
+    TextHint = '5:00'
+  end
+  object MaskEdit2: TMaskEdit
+    Left = 213
+    Top = 340
+    Width = 120
+    Height = 23
+    Alignment = taCenter
+    EditMask = '!90:00;1;_'
+    MaxLength = 5
+    TabOrder = 10
+    Text = '  :  '
+  end
+  object MaskEdit3: TMaskEdit
+    Left = 352
+    Top = 340
+    Width = 153
+    Height = 23
+    Alignment = taCenter
+    EditMask = '!90:00;1;_'
+    MaxLength = 5
+    TabOrder = 11
+    Text = '  :  '
+  end
+  object Edit3: TEdit
+    Left = 352
+    Top = 287
+    Width = 153
+    Height = 23
+    TabOrder = 12
+    TextHint = #1046#1080#1090#1086#1084#1080#1088
+  end
+end

@@ -1,0 +1,62 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+#include "Unit2.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::N4Click(TObject *Sender)
+{
+TForm2* f = new TForm2(nullptr);
+f->Show();
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::N5Click(TObject *Sender)
+{
+	ActiveMDIChild->Close();//закриття активної дочірньої форми
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::N6Click(TObject *Sender)
+{
+	for (int i = 0; i < MDIChildCount; i++)
+{
+    TForm* child = MDIChildren[i];
+    child->Close();
+}
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::N3Click(TObject *Sender)
+{
+    this->Close();
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::N7Click(TObject *Sender)
+{
+    Cascade();
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::N8Click(TObject *Sender)
+{
+	TileMode=tbHorizontal;
+    Tile();
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::N10Click(TObject *Sender)
+{
+     TileMode=tbVertical;
+	 Tile();
+}
+//---------------------------------------------------------------------------
+

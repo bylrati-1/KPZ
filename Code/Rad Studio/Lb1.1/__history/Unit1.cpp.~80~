@@ -1,0 +1,71 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+	for(int i = 0; i<ComponentCount;i++)
+		if(Components[i]->Tag == 1)
+		  if(((TButton*)Components[i])->Top>0)
+			((TButton*)Components[i])->Top -= 20;
+			//Button5->Top--; Top визначає відстань до верху форми. Чим Top < тим кнопка вище
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button3Click(TObject *Sender)
+{
+	for(int i = 0; i<ComponentCount;i++)
+		if(Components[i]->Tag == 1)
+			if	(((TButton*)Components[i])->Left+((TButton*)Components[i])->Width<ClientWidth)
+			((TButton*)Components[i])->Left += 20;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button2Click(TObject *Sender)
+{
+	for(int i = 0; i<ComponentCount;i++)
+		if(Components[i]->Tag == 1)
+		  if(((TButton*)Components[i])->Left>0)
+			((TButton*)Components[i])->Left-= 20;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button4Click(TObject *Sender)
+{
+	for(int i = 0; i<ComponentCount;i++)
+		if(Components[i]->Tag == 1)
+           if	(((TButton*)Components[i])->Top+((TButton*)Components[i])->Height<ClientHeight)
+			((TButton*)Components[i])->Top += 20;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button5Click(TObject *Sender)
+{
+	((TButton*)Sender)->Tag*=(-1);
+}
+//---------------------------------------------------------------------------
+Float  TForm1::getK()
+{
+	return Fk;
+}
+	void TForm1::setK(float newK)
+	{
+		k = (float)Width / Height;
+	}
+
+
+	void __fastcall TForm1::Button8Click(TObject *Sender)
+	{
+			Edit1->Text = FloatToStr(K);
+	}
+//---------------------------------------------------------------------------
+
+
